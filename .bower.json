@@ -1,0 +1,25 @@
+{
+  "name": "isdr.bootstrap-dropdowns-enhancement",
+  "version": "3.1.1",
+  "description": "Bootstrap Dropdown Menus Enhancement",
+  "author": "https://github.com/behigh",
+  "license": "MIT",
+  "homepage": "https://github.com/behigh/bootstrap_dropdowns_enhancement",
+  "main": [
+    "dist/css/dropdowns-enhancement.min.css",
+    "dist/js/dropdowns-enhancement.js"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.x"
+  },
+  "devDependencies": {},
+  "_release": "3.1.1",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.1.1",
+    "commit": "1a0e3280aeffbb3cdb4684c3351a5c7dbed58a24"
+  },
+  "_source": "https://github.com/IssuerDirect/bootstrap_dropdowns_enhancement.git",
+  "_target": "~3.1.1",
+  "_originalSource": "behigh.bootstrap-dropdowns-enhancement"
+}
